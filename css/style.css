@@ -54,3 +54,10 @@ thead{
 .first{
     background-color: #B1E5F2;
 }
+div{
+    height: 100px;
+    color: white;
+}
+image-first {
+    background-image: url(../img/monitor.jpg);
+}
