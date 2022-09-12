@@ -2,14 +2,41 @@
    box-sizing: border-box; 
    margin: 0;
 }
+body{
+    width: 1100px;
+    margin: auto;
+    
+}
 header {
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
     height: 150px;
 }
 header img{
-    height: 50px;
+    height: 60px;
     width: auto;
     margin-top: 80px;
     margin-left: 10px;
+}
+h1{
+    font-size: 40px;
+}
+main{
+    margin-left: 10px;
+}
+
+span{
+    font-size: 20px;
+    color: #808080;
+}
+
+.booleaner-page{
+    color: #20A9E5;
+    font-weight: bold;
+}
+.tim-images{
+    margin-top: 20px;
+}
+.didascalia{
+    font-size: 14px;
 }
