@@ -25,7 +25,7 @@ main{
     margin-left: 10px;
 }
 
-span{
+.author{
     font-size: 20px;
     color: #808080;
 }
@@ -38,6 +38,19 @@ span{
 .didascalia{
     font-size: 14px;
 }
-div{
+section{
     margin-bottom: 20px;
+}
+table{
+    width: 100%;
+}
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+.dtable{
+    width: 50%;
+}
+.first{
+    background-color: #B1E5F2;
 }
