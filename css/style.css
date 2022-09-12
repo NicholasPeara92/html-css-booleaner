@@ -34,9 +34,10 @@ span{
     color: #20A9E5;
     font-weight: bold;
 }
-.tim-images{
-    margin-top: 20px;
-}
+
 .didascalia{
     font-size: 14px;
+}
+div{
+    margin-bottom: 20px;
 }
