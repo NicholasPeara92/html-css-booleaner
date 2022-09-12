@@ -2,31 +2,37 @@
    box-sizing: border-box; 
    margin: 0;
 }
+
 body{
     width: 1100px;
     margin: auto; 
 }
+
 header {
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
     height: 120px;
 }
+
 header img{
     height: 60px;
     width: auto;
     margin-top: 50px;
-    margin-left: 10px;
 }
+
 h1{
     font-size: 40px;
 }
-main{
+
+main, header img, h3{
     margin-left: 10px;
 }
+
 .author{
     font-size: 20px;
     color: #808080;
 }
+
 .booleaner-page{
     color: #20A9E5;
     font-weight: bold;
@@ -35,9 +41,11 @@ main{
 .didascalia{
     font-size: 14px;
 }
+
 section{
     margin-bottom: 20px;
 }
+
 ul{
     padding: 15px;
 }
@@ -45,32 +53,36 @@ ul{
 table{
     width: 100%;
 }
+
 thead{
     background-color: #20A9E5;
     color: white;
     text-align: left;
 }
+
 .dtable{
     width: 50%;
 }
+
 .first{
     background-color: #B1E5F2;
 }
+
 div{
     height: 208px;
     color: white;
     width: 312px;
     margin: 10px;
 }
-h3{
-    margin-left: 10px;
-}
+
 .image-first {
     background-image: url(../img/monitor.jpg);
 }
+
 .image-second{
     background-image: url(../img/graph.jpg);
 }
+
 h2{
     padding: 10px;
 }
