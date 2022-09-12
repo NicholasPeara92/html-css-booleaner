@@ -9,12 +9,12 @@ body{
 header {
     background-color: #4EA0FF;
     background-image: url(../img/pattern.png);
-    height: 150px;
+    height: 120px;
 }
 header img{
     height: 60px;
     width: auto;
-    margin-top: 80px;
+    margin-top: 50px;
     margin-left: 10px;
 }
 h1{
@@ -38,6 +38,9 @@ main{
 section{
     margin-bottom: 20px;
 }
+ul{
+    padding: 15px;
+}
 
 table{
     width: 100%;
@@ -45,6 +48,7 @@ table{
 thead{
     background-color: #20A9E5;
     color: white;
+    text-align: left;
 }
 .dtable{
     width: 50%;
