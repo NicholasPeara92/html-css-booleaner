@@ -85,6 +85,7 @@ div{
     background-image: url(../img/graph.jpg);
 }
 
-h2{
+h4{
     padding: 10px;
+    font-size: 24px;
 }
